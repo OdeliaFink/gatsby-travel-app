@@ -3,5 +3,4 @@ export const menuData = [
   { title: "Trips", link: "/trips" },
   { title: "Careers", link: "/careers" },
   { title: "Contact", link: "/contact" },
-  ,
 ]
