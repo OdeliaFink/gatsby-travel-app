@@ -8,23 +8,23 @@ export const StatsData = [
     icon: (
       <GiEarthAmerica
         style={{
-          color: "#047bf1",
+          color: "#4445a3",
         }}
       />
     ),
-    title: "Over 100 destinations",
-    desc: "Travel all over the world and unique spots",
+    title: "Over 100 Destinations",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   },
   {
     icon: (
       <MdAirplanemodeActive
         style={{
-          color: "#047bf1",
+          color: "#4dbac6",
         }}
       />
     ),
-    title: "1 million trips made",
-    desc: "Over 1 million trips completed in the last yea",
+    title: "1 Million Trips",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   },
   {
     icon: (
@@ -34,8 +34,8 @@ export const StatsData = [
         }}
       />
     ),
-    title: "Fastest support service",
-    desc: "Access our support team 24/7",
+    title: "Fastest Support ",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   },
   {
     icon: (
@@ -45,7 +45,7 @@ export const StatsData = [
         }}
       />
     ),
-    title: "Best deals",
-    desc: "We offer the best prices",
+    title: "Best Deals Online",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   },
 ]

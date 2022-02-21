@@ -1,26 +1,26 @@
 [
   {
     "img": "../assets/images/travel-1.jpg",
-    "alt": "Buddha",
-    "name": "thai buddha statue",
-    "button": "view destination"
+    "alt": "Ang Thong Province, Thailand",
+    "name": "Wat Muang temple",
+    "button": "View Destination"
   },
   {
     "img": "../assets/images/travel-2.jpg",
-    "alt": "Mexico",
-    "name": "Mayan mexico",
-    "button": "view destination"
+    "alt": "Tulum, Mexico",
+    "name": "Mayan Ruins",
+    "button": "View Destination"
   },
   {
     "img": "../assets/images/travel-3.jpg",
-    "alt": "Brazil",
-    "name": "statue in brazil",
-    "button": "view destination"
+    "alt": "Rio de Janeiro, Brazil",
+    "name": "The Christ the Redeemer",
+    "button": "View Destination"
   },
   {
     "img": "../assets/images/travel-4.jpg",
-    "alt": "Rome",
-    "name": "city of italy",
-    "button": "view destination"
+    "alt": "Rome, Italy",
+    "name": "Trevi Fountain",
+    "button": "View Destination"
   }
 ]
