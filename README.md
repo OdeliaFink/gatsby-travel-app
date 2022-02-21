@@ -12,6 +12,6 @@
 
 ## Screenshots:
 
-!["Above the fold- Hero Section"](https://github.com/OdeliaFink/scheduler/blob/master/docs/appointment-create.png?raw=true)
-![""](https://github.com/OdeliaFink/scheduler/blob/master/docs/appointment-no-interviewer.png?raw=true)
-!["Confirm Appointment Cancellation"](https://github.com/OdeliaFink/scheduler/blob/master/docs/appointment-confirm-cancel.png?raw=true)
+!["Above the fold- Hero Section"](https://github.com/OdeliaFink/gatsby-travel-app/blob/master/src/assets/images/hero.png)
+!["Favourite Destinations"](https://github.com/OdeliaFink/gatsby-travel-app/blob/master/src/assets/images/top-spots.png)
+!["Footer"](https://github.com/OdeliaFink/gatsby-travel-app/blob/master/src/assets/images/footer.png)
